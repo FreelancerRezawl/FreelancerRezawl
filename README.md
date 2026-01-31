@@ -1,82 +1,112 @@
 <!--
-✨ SPECIAL REPOSITORY: This README appears on your GitHub profile!
-🎨 Designed to stand out with visual flair, stats, and personality.
+✨ This is your special GitHub profile README ✨
+Modern | Attractive | Laravel + WordPress Focused
 -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=43B581&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rezawl;Web+Designer+%26+Developer;WordPress+%7C+WooCommerce+%7C+Laravel+%7C+Full-Stack" alt="Typing SVG" />
- 
-  <p align="center">
+  <!-- Bigger, bolder typing animation with gradient color -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=600&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Rezawl;Full-Stack+Web+Developer+%26+Designer;Laravel+%7C+WordPress+%7C+WooCommerce+%7C+PHP+Expert" alt="Typing SVG" />
+
+  <!-- Social & views with modern flat badges -->
+  <p>
     <a href="https://github.com/FreelancerRezawl">
-      <img src="https://komarev.com/ghpvc/?username=FreelancerRezawl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      <img src="https://komarev.com/ghpvc/?username=FreelancerRezawl&label=Profile+Views&color=00C853&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" />
     </a>
     <a href="https://www.linkedin.com/in/freelancer-rezawl-163152205/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.fiverr.com/f_rezawl">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    </a>
+    <a href="mailto:help.rezawl71@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
+
+  <!-- Quick tagline -->
+  <h3>Building high-performance web apps & eCommerce solutions for 7+ years 🚀</h3>
 </div>
+
 ---
+
 ## 🚀 About Me
-- 💻 **7+ years** crafting stunning, high-performance websites & web applications
-- 🌐 **Specialist** in WordPress, WooCommerce, Laravel & custom PHP solutions
-- 🧠 **Currently leveling up** in JavaScript, Node.js, Python & Java
-- 🤝 **Open to collaborations** on web projects, plugins, themes, Laravel apps & eCommerce systems
-- 📫 **Reach me**: [help.rezawl71@gmail.com](mailto:help.rezawl71@gmail.com) | [Freelancerrezawl71@gmail.com](mailto:Freelancerrezawl71@gmail.com)
+
+- 💻 **7+ years** — Crafting fast, scalable websites & applications
+- 🛍️ **Core Expertise** — Laravel, WordPress, WooCommerce, Custom PHP
+- 🌱 **Leveling up** — Modern JS (Vue/React), Node.js, Python, Java
+- 🔧 Passionate about clean code, performance, and pixel-perfect UI/UX
+- 🤝 Open for **freelance**, collaborations, Laravel packages, WP plugins & eCommerce projects
+- 📩 **Email**: [help.rezawl71@gmail.com](mailto:help.rezawl71@gmail.com) | [Freelancerrezawl71@gmail.com](mailto:Freelancerrezawl71@gmail.com)
+
 ---
-## 🛠️ Tech Stack & Expertise
-### Core Specializations
+
+## 🛠️ Tech Stack
+
 <div align="center">
+  <!-- Skill icons grid - more visual & attractive -->
+  <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,woocommerce,html,css,js,ts,vue,react,nodejs,python,java,mysql,git,github,vscode&perline=8" alt="Skills" />
+</div>
+
+### Core | Laravel • WordPress • WooCommerce
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000" alt="Laravel" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
-### Expanding My Horizons
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</div>
+
 ---
-## 📊 GitHub Analytics
+
+## 📊 GitHub Stats – Modern Visuals
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FreelancerRezawl&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreelancerRezawl&layout=compact&theme=radical" />
+  <!-- Main stats card - dracula theme for premium look -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FreelancerRezawl&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true&border_radius=12" alt="GitHub Stats" />
+
+  <!-- Pie chart for languages – very attractive & requested -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreelancerRezawl&layout=pie&theme=dracula&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages Pie Chart" />
+
+  <!-- Alternative: Donut if you prefer (swap layout=donut) -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreelancerRezawl&layout=donut&theme=dracula&hide_border=true&border_radius=12" alt="Top Languages Donut" /> -->
+
+  <!-- Streak – keep it centered -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreelancerRezawl&theme=dracula&hide_border=true&border_radius=12&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" width="420" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreelancerRezawl&theme=radical" alt="GitHub Streak" />
+  <!-- Trophies – fun & motivational addition -->
+  <img src="https://github-profile-trophy.vercel.app/?username=FreelancerRezawl&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
 </div>
+
 ---
+
 ## 💡 Featured Projects
-| Project                        | Description                                          | Tech Used                        |
-|--------------------------------|------------------------------------------------------|----------------------------------|
-| **WooCommerce Custom Plugin**  | Enhanced store functionality with custom features    | PHP, WooCommerce API             |
-| **Responsive WordPress Theme** | Mobile-first theme with performance optimization     | WordPress, SCSS, JS              |
-| **E-commerce Dashboard**       | Admin panel for store analytics & management         | Node.js, React, MySQL            |
-| **Laravel Application**        | (Add your real Laravel project here when ready)      | Laravel, PHP, MySQL              |
 
-> 🔍 **[View all projects](https://github.com/FreelancerRezawl?tab=repositories)**
+| Project                        | Description                                          | Tech Stack                     |
+|--------------------------------|------------------------------------------------------|--------------------------------|
+| WooCommerce Custom Plugin      | Advanced store features & custom checkout flows      | PHP, WooCommerce API           |
+| Responsive WordPress Theme     | Mobile-first, fast-loading with custom blocks        | WordPress, SCSS, JS            |
+| Laravel E-commerce Dashboard   | Admin analytics, orders, users management            | Laravel, Livewire/Vue, MySQL   |
+| Custom Laravel Package         | (Add your real one here – e.g. payment gateway)      | Laravel, PHP                   |
+
+> 🔍 **[Explore all repositories →](https://github.com/FreelancerRezawl?tab=repositories)**
 
 ---
-## 📬 Let's Connect!
+
+## 📬 Let's Build Something Awesome!
+
 <div align="center">
-  <a href="mailto:help.rezawl71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://www.linkedin.com/in/freelancer-rezawl-163152205/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.fiverr.com/f_rezawl">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="https://github.com/FreelancerRezawl">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:help.rezawl71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
----
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontColor=fff" alt="Waving footer" />
 </div>
