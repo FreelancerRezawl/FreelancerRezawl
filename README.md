@@ -1,6 +1,6 @@
 <!--
-✨ GitHub Profile README (CV Style) ✨
-Modern • Clean • Graphs/Charts • Portfolio-driven
+GitHub Profile README (CV Style)
+Clean • Professional • Portfolio-driven
 -->
 
 <div align="center">
@@ -10,214 +10,143 @@ Modern • Clean • Graphs/Charts • Portfolio-driven
     src="https://avatars.githubusercontent.com/FreelancerRezawl?s=460&u=1c6d8a1f7b4b9c9d0b1f6f6f6f6f6f6f6f6f6f6&v=4"
     width="160"
     height="160"
-    style="border-radius: 50%;"
+    style="border-radius: 50%; border: 3px solid #e5e7eb;"
     alt="MD Rezawl"
   />
 
-  <h1>MD Rezawl</h1>
-  <h3>Software Engineer & Web Developer — 8+ years of experience</h3>
+  <h1 style="margin-bottom: 6px;">MD Rezawl</h1>
+  <p style="margin-top: 0; font-size: 16px;">
+    <b>Software Engineer</b> • <b>WordPress & WooCommerce Specialist</b> • <b>PHP / Laravel</b>
+  </p>
 
-  <!-- Typing Animation -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=600&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=WordPress+%7C+WooCommerce+%7C+PHP+%7C+Laravel;Custom+Plugins+%7C+API+Integrations+%7C+Automation;Fast%2C+Secure%2C+User-friendly+Web+Solutions"
-    alt="Typing SVG"
-  />
+  <!-- Short Value Proposition -->
+  <p style="max-width: 860px; line-height: 1.6;">
+    I build fast, secure, conversion-focused websites and eCommerce systems—specializing in <b>WordPress</b>, <b>WooCommerce</b>, <b>custom plugins</b>, and <b>API/Feed automation</b>.
+  </p>
 
-  <!-- Social / Contact -->
+  <!-- Badges -->
   <p>
     <a href="https://github.com/FreelancerRezawl">
-      <img src="https://komarev.com/ghpvc/?username=FreelancerRezawl&label=Profile+Views&color=00C853&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=FreelancerRezawl&label=Profile%20Views&color=0ea5e9&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
     </a>
     <a href="https://pf.bytecarts.com/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-pf.bytecarts.com-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/freelancer-rezawl-163152205/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.fiverr.com/f_rezawl">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Fiverr-Work%20History-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
     </a>
     <a href="mailto:help.rezawl71@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-help.rezawl71%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
+  <!-- Contact line (kept minimal & professional) -->
   <p>
-    📩 <b>help.rezawl71@gmail.com</b> • 📞 <b>+8801771600778</b> • 🌍 <a href="https://pf.bytecarts.com/">pf.bytecarts.com</a>
+    📩 <b>help.rezawl71@gmail.com</b> &nbsp;•&nbsp; 🌍 <a href="https://pf.bytecarts.com/"><b>pf.bytecarts.com</b></a>
   </p>
 
 </div>
 
 ---
 
-## 👋 Summary (CV Snapshot)
+## Professional Summary
 
-- ✅ **8+ years** building fast, secure, user-friendly websites & web apps  
-- ✅ **130+ projects** delivered  
-- ✅ Core focus: **WordPress, WooCommerce, PHP, Laravel, MySQL, JavaScript**  
-- ✅ Strong at **custom plugins**, **API integrations**, **XML/CSV feed automation**, **performance**, **bug fixing**  
-- ✅ Available for **freelance / contract work**
-
----
-
-## 📌 About Me
-
-I build **high-performance eCommerce solutions** with **WordPress & WooCommerce**, plus custom web apps, plugins, and third-party integrations.  
-I also build automation tools like **Telegram bots** and utilities like **QR/barcode scanners**.
-
-<div align="center">
-
-  <!-- About Me Graphs -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreelancerRezawl&theme=dracula"
-    height="180"
-    alt="Stats Graph"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FreelancerRezawl&theme=dracula&utcOffset=6"
-    height="180"
-    alt="Productive Time Graph"
-  />
-
-</div>
+- **8+ years** building production-grade websites and eCommerce solutions  
+- Delivered **130+ projects** across international clients  
+- Strong focus on **WordPress, WooCommerce, PHP, Laravel, MySQL, JavaScript**  
+- Expertise in **custom plugins**, **API integrations**, **XML/CSV automation**, **performance tuning**, and **bug fixing**  
+- Available for **freelance / contract** engagements
 
 ---
 
-## 🧠 Technical Skills
+## What I Do
 
-### Web / Backend
-- HTML **95%**
-- CSS **90%**
-- JavaScript **88%**
-- jQuery **85%**
-- Bootstrap **92%**
-- PHP **88%**
-- Laravel **75%**
-- Node.js **70%**
-- MySQL **90%**
-
-### Other
-- Python **85%**
-- C **80%**
-- Photoshop **75%**
+- Build and scale **WooCommerce stores** (speed, security, UX, conversion)
+- Develop **custom WordPress plugins** and bespoke features
+- Automate workflows with **XML/CSV feeds**, scheduled sync, and background jobs
+- Integrate third-party services via **REST APIs** (payments, shipping, CRM, ERP)
+- Improve reliability: audits, refactors, monitoring, and hardening
 
 ---
 
-## 📊 Skills Chart (Bar Graph)
+## Core Skills
 
-> ✅ Renders as an image on GitHub (no setup required)
+**Backend & CMS:** WordPress, WooCommerce, PHP, Laravel, MySQL  
+**Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
+**Automation & Tools:** REST APIs, Webhooks, XML/CSV feeds, Git/GitHub  
+**Other:** Python, C, Photoshop
 
 <div align="center">
   <img
-    src="https://quickchart.io/chart?c={type:'bar',data:{labels:['HTML','CSS','JavaScript','jQuery','Bootstrap','PHP','Laravel','Node.js','MySQL','Python','C','Photoshop'],datasets:[{label:'Skill %',data:[95,90,88,85,92,88,75,70,90,85,80,75]}]},options:{plugins:{legend:{display:false},title:{display:true,text:'Technical Skills — Proficiency (%)'}},scales:{y:{min:0,max:100,ticks:{callback:(v)=>v+'%'}}}}}"
-    width="900"
-    alt="Technical Skills Chart"
-  />
-</div>
-
----
-
-## 🧩 Skills Icons
-
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=wordpress,woocommerce,php,laravel,html,css,js,ts,react,nodejs,python,mysql,git,github,vscode&perline=8"
+    src="https://skillicons.dev/icons?i=wordpress,woocommerce,php,laravel,html,css,js,react,nodejs,python,mysql,git,github,vscode&perline=8"
     alt="Skill Icons"
   />
 </div>
 
 ---
 
-## 🧰 Services (What I Offer)
-
-- **WordPress Development** — Custom themes/plugins, responsive & SEO-friendly builds  
-- **WooCommerce Store** — From simple stores to complex marketplaces  
-- **Dropshipping Store** — Automated setups + supplier & payment gateway integration  
-- **Affiliate Marketing Website** — Optimized for conversions and engagement  
-- **Bug Fixing** — WP/WooCommerce/custom PHP troubleshooting  
-- **Custom Plugin Development** — Bespoke features not available off-the-shelf  
-- **XML/CSV Feed Integration** — Import/export/sync automation  
-- **API Integration** — External services, data sync, workflow automation
-
----
-
-## 🧾 GitHub as a CV (Graphs + Charts)
+## GitHub Snapshot
 
 <div align="center">
-
-  <!-- Contribution Activity Graph -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FreelancerRezawl&bg_color=1a1b27&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FreelancerRezawl&theme=github_dark"
+    height="180"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FreelancerRezawl&theme=github_dark&utcOffset=6"
+    height="180"
+    alt="Productive Time"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FreelancerRezawl&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true"
     width="98%"
     alt="Contribution Graph"
   />
-
 </div>
 
 <div align="center">
-
-  <!-- Full Profile Details -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreelancerRezawl&theme=dracula"
-    width="98%"
-    alt="Profile Details"
-  />
-
-</div>
-
-<div align="center">
-
-  <!-- Language / Repo Charts -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FreelancerRezawl&theme=dracula"
-    height="180"
-    alt="Repos Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FreelancerRezawl&theme=dracula"
-    height="180"
-    alt="Most Commit Language"
-  />
-
-</div>
-
-<div align="center">
-
-  <!-- Streak Chart -->
-  <img
-    src="https://streak-stats.demolab.com?user=FreelancerRezawl&theme=dracula&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=FreelancerRezawl&theme=github-dark-blue&hide_border=true&border_radius=12"
     width="520"
     alt="GitHub Streak"
   />
-
-</div>
-
-<div align="center">
-
-  <!-- Trophy Row -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=FreelancerRezawl&theme=dracula&no-frame=true&margin-w=12&margin-h=12&row=1&column=7"
-    alt="Trophies"
-  />
-
 </div>
 
 ---
 
-## 🏆 Selected Projects (From Portfolio)
+## Services
+
+- **WordPress Development** — custom themes/plugins, SEO-ready, responsive UI  
+- **WooCommerce Development** — store setup, customization, checkout optimization  
+- **Performance Optimization** — Core Web Vitals, caching, DB tuning, CDN setup  
+- **Bug Fixing & Maintenance** — PHP/WP/WooCommerce troubleshooting  
+- **Custom Plugin Development** — tailored features, clean architecture  
+- **Feed Automation** — XML/CSV import/export, supplier sync, cron automation  
+- **API Integrations** — payment/shipping/CRM integrations, webhooks, automation
+
+---
+
+## Selected Projects
 
 | Project | What I Built | Tech |
 |---|---|---|
-| **Bitbox eCommerce (WooCommerce)** | Custom store for mobile phones + supplier import + XML feed integration | WordPress, WooCommerce, XML |
-| **Active eCommerce Affiliate Mod** | Lifetime bonuses, cookie tracking, configurable expiry | PHP, MySQL |
-| **Telegram URL Shortener Bot** | Shortens URLs + converts to QR codes | Python, Telegram Bot |
-| **Custom WooCommerce Plugins** | Payments, tax/TIN handling, manual gateway plugins | PHP, WooCommerce |
-| **QR + Barcode Android App (prototype)** | Scan QR/barcode, show parsed data or redirect | Flutter, Android |
-| **CMS (Open Source)** | Extensible CMS for quick eCommerce deployment | PHP |
+| **Bitbox eCommerce** | Custom store + supplier import + XML feed automation | WordPress, WooCommerce, XML |
+| **Affiliate Module** | Bonuses, cookie tracking, configurable expiry | PHP, MySQL |
+| **Telegram URL Shortener Bot** | URL shortener + QR generation | Python, Telegram Bot |
+| **Custom WooCommerce Plugins** | Gateways, taxes, validations, admin tools | PHP, WooCommerce |
+| **QR / Barcode App (Prototype)** | Scanner + data parsing/redirect | Flutter, Android |
+| **CMS (Open Source)** | Extendable CMS for rapid builds | PHP |
 
 ---
 
-## 🌐 Recent Work (Live Sites)
+## Recent Work
 
 - Zine Culture — https://zineculture.de  
 - Alboria — https://alboria.es  
@@ -234,25 +163,21 @@ I also build automation tools like **Telegram bots** and utilities like **QR/bar
 
 ---
 
-## 📬 Hire Me
+## Contact / Hiring
 
 <div align="center">
   <a href="https://www.fiverr.com/f_rezawl">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me Fiverr" />
+    <img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me Fiverr" />
   </a>
   <a href="mailto:help.rezawl71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email-Message%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://pf.bytecarts.com/">
-    <img src="https://img.shields.io/badge/Portfolio-See%20More-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 ---
-
-<!-- Optional: Contribution Snake (requires GitHub Action workflow)
-![snake](https://raw.githubusercontent.com/FreelancerRezawl/FreelancerRezawl/output/github-contribution-grid-snake.svg)
--->
 
 <div align="center">
   <img
